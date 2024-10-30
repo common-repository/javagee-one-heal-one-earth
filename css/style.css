@@ -1,0 +1,18 @@
+/* nice bootstrap ready facebook share button http://justincron.com */
+
+.btn-facebook {
+    color: #fff!important;
+    background-color: #4C67A1!important;
+    /*font-family: 'FontAwesome';*/
+    /*font-style: normal;*/
+
+}
+.btn-facebook:hover {
+    color: #fff!important;
+    background-color: #405D9B!important;
+}
+.btn-facebook:focus {
+    color: #fff!important;
+}
+
+
